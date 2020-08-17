@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         EggSniper
 // @namespace    EggSniper
-// @version      0.2
+// @version      0.3
 // @description  Detects and simplifies egging immimnent eggs
 // @author       gscookie
 // @match        https://www.twitch.tv/mrsruvi*
+// @updateURL    https://github.com/gscookie/egg-sniper/raw/master/EggSniper.user.js
 // @grant        none
 // ==/UserScript==
 
