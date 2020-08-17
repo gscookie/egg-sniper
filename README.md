@@ -5,4 +5,4 @@ Userscript which detects unsubscribed users in twitch chat and provides link to 
 Tampermonkey: https://www.tampermonkey.net/
 
 ## Installation
-Click here after installing Tampermonkey: 
+Click here after installing Tampermonkey: https://github.com/gscookie/egg-sniper/raw/master/EggSniper.user.js
